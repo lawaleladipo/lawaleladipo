@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Olawale Oladipo
-- 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning SQL, Tableau and Python
+- 👀 I’m a Data Analyst, Data Science enthusiast with a sprinkle of UI/UX
+- 🌱 I have knowledge of Excel, SQL, Tableau, R and Python
 - 💞️ I’m looking to collaborate on Data analytics project
 - 📫 How to reach me lawaleladipo@gmail.com
 
