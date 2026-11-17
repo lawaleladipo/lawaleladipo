@@ -1,42 +1,32 @@
-👋 Hi, I am Olawale Oladipo  
+# Hi, I'm Olawale Oladipo 👋
 
-🔐 Cybersecurity Analyst | 🧑‍💻  The SOC guy | OSINT and Cyber Defense
+**Detection & Response Engineer · Cloud & Endpoint DFIR · Agentic SecOps Builder**
 
-I am passionate about cyber defense, open-source intelligence (OSINT), and building security tools that help protect systems and empower researchers. My journey started with data analytics, and today I combine those skills with hands-on cybersecurity expertise.  
-
----
-
-## 👀 What I Do
-- 🛡️ Cyber Defense Analyst with experience in SOC operations, incident response, and endpoint security.  
-- 🕵️ Creator of [Omni-Scraper](https://github.com/lawaleladipo/omni-scraper) — a modular OSINT toolkit with crawling, scraping, Shodan, and IntelligenceX integration.  
-- 📊 Skilled in data analysis (Excel, SQL, Python, R, Tableau) for insights and threat intelligence.  
-- 🌍 Advocate for OpSec, digital safety, and empowering communities with cybersecurity awareness.  
+I engineer high-signal **Detection-as-Code pipelines**, **multi-cloud forensic workflows**, and **deterministic guardrails for SecOps AI** across SIEM, EDR, CNAPP, and Kubernetes environments.
 
 ---
 
- 🌱 Currently Exploring
-- Advanced OSINT automation (dark web crawling, intelligence APIs).  
-- Cloud security & endpoint defense (Microsoft 365, EDR, XDR).  
-- Threat hunting and adversary emulation using MITRE ATT&CK.  
+### What I Focus On
+- **Detection-as-Code (DaC):** Authoring & CI-linting behavioral detections across **Google SecOps (YARA-L 2.0)**, **CrowdStrike Falcon (CQL, Custom IOAs, IOC APIs)**, and **Wiz CNAPP (OPA Rego, KQL, Security Graph Controls & Shift-Left IaC)**.
+- **Detection Quality Assurance:** Statistical baseline monitoring (Median/MAD) for rule noise, log-source downtime, ingestion latency, and whitelisting hygiene.
+- **Cloud & Identity DFIR:** Reconstructing cross-plane incidents spanning WAF, Kubernetes, Cloud IAM, Identity/SSO, SASE/DLP, and Endpoints.
+- **Governed SecOps AI:** Zero-retention (`store: false`) architectures with browser-side PII/secret scrubbing and deterministic pre-flight compilers.
 
 ---
 
-💞️ I am Looking to Collaborate On
-- Open-source cybersecurity projects (threat intel, log analysis, phishing detection).  
-- Security research & knowledge-sharing in the Nigerian and global cyber community.  
+### Featured Security Engineering Projects
+
+| Project | Focus | Stack & Rule Surfaces |
+| :--- | :--- | :--- |
+| **[SIFT-AIR](https://github.com/lawaleladipo/sift-air)** | Zero-Retention DFIR, Threat Hunting & Multi-Platform Detection-as-Code Workbench with native `.pdf`/`.docx` advisory parsing & client-side secret redaction | `TypeScript` · `React 19` · `Vertex AI / Gemini` · `YARA-L 2.0` · `Falcon CQL/IOA/IOC` · `Wiz Rego/KQL/Graph` |
+| **[CSIRAS](https://github.com/lawaleladipo/csiras)** | Autonomous Read-Only Detection Quality Assurance Agent — 12-week Median/MAD noise & log-health baselines, static DaC auditing, & bounded LLM second-opinions | `Python` · `Median/MAD` · `YARA-L AST` · `Docker` · `Cost Ledger` |
+| **[AI SOC Autonomous Agents](https://github.com/lawaleladipo/ai-soc-autonomous-agents)** | Multi-agent SecOps microservice (`Triage`, `Threat Detection`, `Threat Hunting`, `CVE Risk`, & `Incident Docs`) with maintenance-window FP weighting, `P1–P5` priority matrices, & fallback scorers | `Python` · `FastAPI` · `Groq (Llama 3.3)` · `Docker` · `ReportLab` · `MITRE ATT&CK` |
+| **[Omni-Scraper](https://github.com/lawaleladipo/omni-scraper)** | OPSEC-disciplined `.onion` crawler & leak-hunting CLI with `socks5h://` DNS-leak prevention, `stem` `NEWNYM` Tor circuit rotation, Intelligence X breach checks, & Shodan host correlation | `Python` · `Click` · `aiohttp-socks` · `Tor / Stem` · `IntelX` · `Shodan` |
+| **[FishAgent](https://github.com/lawaleladipo/FishAgent)** | Protocol-first phishing triage CLI parsing raw RFC-5322 `.eml` headers (`DMARC`/`DKIM` alignment), PSL lookalike & HTML `<a href>` spoofing checks, & `temperature=0` LLM intent scoring | `Python` · `BytesParser` · `tldextract` · `OpenAI` · `RFC-5322` |
 
 ---
 
-📫 How to Reach Me
-- 📧 Email: lawaleladipo@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/olawale-oladipo](https://www.linkedin.com/in/olawale-oladipo_cybersecurity/)   
-
----
-
-⚡ Fun fact: I bridge data + cybersecurity, from analyzing spreadsheets to building tools that dig into the deep & dark web.  
-
-
-<!---
-lawaleladipo/lawaleladipo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Connect & Writing
+- **Medium:** [medium.com/@lawaleladipo](https://medium.com/@lawaleladipo)
+- **LinkedIn:** [linkedin.com/in/olawale-oladipo-cybersecurity](https://www.linkedin.com/in/olawale-oladipo-cybersecurity/)
+- **Email:** [lawaleladipo@gmail.com](mailto:lawaleladipo@gmail.com)
